@@ -51,7 +51,10 @@ Enter the contribution by Chanda: 400
 Enter the total bill amount: 600
 
 ----------------------BILL SPLIT SUMMARY-----------------------------
+
 Shreya should recieve ₹300.00
+
 Khushi should recieve ₹100.00
+
 Chanda should recieve ₹200.00
 
