@@ -34,7 +34,24 @@ No external libraries required
 
 ##🔍 Example Output
 
-Enter the number of people: 4
+Enter the number of people: 3
 
-Enter the total bill amount: 1200
+Enter the name of participant 1: Shreya
+
+Enter contribution by Shreya: 500
+
+Enter the name of participant 2: Khushi
+
+Enter contribution by Khushi: 300
+
+Enter the name of participant 3: Chanda
+
+Enter the contribution by Chanda: 400
+
+Enter the total bill amount: 600
+
+----------------------BILL SPLIT SUMMARY-----------------------------
+Shreya should recieve ₹300.00
+Khushi should recieve ₹100.00
+Chanda should recieve ₹200.00
 
