@@ -30,8 +30,41 @@ No external libraries required
 
 'statement.md' → Problem statement for submission
 
-'main.py' → Source code
+'utils.py', 'calculator.py', 'main.py' → Source code
 
+##🔨 Steps to Install and Run the project
+
+1. Install Python
+2. Download the Project Files
+3. Open the Project Folder
+4. Run the Python Script
+
+##🧪 Instructions for Testing the Project
+
+1. Test with Simple Inputs
+   - Provide small number of participants.
+   - Enter equal contributions
+   - Verify if the output matches expected results.
+  
+2. Test with Unequal Contributions
+   - Enter different contribution amounts.
+   - Ensure the calculator correctly shows who will receive or pay extra.
+  
+3. Test Error Handling
+   - Try entering a non-numeric value for amount.
+   - Enter zero or negative numbers.
+   - Observe whether the program displays proper error messages.
+  
+4. Test Large Inputs
+   - Use a high total bill amount.
+   - Increase the number of participants.
+   - Check if the program handles large values smoothly.
+  
+5. Test Boundary Cases
+   - One participant only.
+   - All participants contributing zero.
+   - Total bill amount lower than contributions.
+    
 ##🔍 Example Output
 
 Enter the number of people: 3
