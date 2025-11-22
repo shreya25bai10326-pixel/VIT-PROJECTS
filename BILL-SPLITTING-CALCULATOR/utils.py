@@ -10,7 +10,7 @@ def get_participants():
 
   for i in range(n):
     name = input(f"Enter the name of participant {i+1}: ")
-    contribution = float(input(f"Enter contribution by {name}:
+    contribution = float(input(f"Enter contribution by {name}: "))
     participants[name] = contribution
 
   return participants
