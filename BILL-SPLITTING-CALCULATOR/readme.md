@@ -27,7 +27,9 @@ No external libraries required
 ##📂 Project Files Used
 
 'readme.md' → Project explanation and details
+
 'statement.md' → Problem statement for submission
+
 'main.py' → Source code
 
 ##🔍 Example Output
